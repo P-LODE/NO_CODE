@@ -77,6 +77,10 @@ importers:
       underscore:
         specifier: ^1.13.7
         version: 1.13.7
+    devDependencies:
+      '@types/underscore':
+        specifier: ^1.13.0
+        version: 1.13.0
 
 packages:
 

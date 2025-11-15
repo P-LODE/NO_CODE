@@ -10,5 +10,8 @@
     "html-entities": "^2.6.0",
     "promise-polyfill": "^8.3.0",
     "underscore": "^1.13.7"
+  },
+  "devDependencies": {
+    "@types/underscore": "^1.13.0"
   }
 }
